@@ -10,4 +10,13 @@
     <string name="subscribe_me">SUBSCRIBE NOW</string>
     <string name="digit">36,520</string>
     <string name="clients_subscribed_right_now">CLIENTS SUBSCRIBED RIGHT NOW</string>
+    <string name="Hello">hello</string>
+
+    <string-array name="list">
+        <item>Books</item>
+        <item>Restaurant</item>
+        <item>Customs</item>
+        <item> Airport </item>
+    </string-array>
+
 </resources>
